@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Sama 
+I’m a passionate student and aspiring Machine Learning Engineer & Data Scientist.  
+I enjoy exploring the world of AI, solving problems with code, and diving deep into research and innovative technologies.
 
-<!--
-**saamasameh889/saamasameh889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+- I enjoy working on research-oriented projects in AI, Deep Learning, and Data Science  
+- Currently expanding my knowledge in advanced machine learning, computer vision, Natural Languague Programming and AI ethics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Languages:**  
+Python, Java, C++, SQL, Dart (Flutter)
+
+**Frameworks & Tools:**  
+TensorFlow, PyTorch,Flutter, OpenCV, scikit-learn, Pandas, Matplotlib, Flask
+
+---
+
+## How to Reach Me
+- Email: ssama9232@gmail.com  
+- LinkedIn: [www.linkedin.com/in/sama-sameh-36835230a
+](#)  
